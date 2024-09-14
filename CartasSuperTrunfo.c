@@ -8,7 +8,7 @@ int main() {
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
 
     int codigoDaCidade, pontosTuristicos, populacao;
-    char nome[50];
+    char nome[4];
     float area, PIB;
 
     // Cadastro das Cartas:
