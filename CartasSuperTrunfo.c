@@ -9,7 +9,7 @@ int main() {
 
     int pontosTuristicos, populacao;
     char codigoEstado;
-    char codigoCidade[3];
+    char codigoCidade[5];
     char nome[50];
     float area, PIB;
 
